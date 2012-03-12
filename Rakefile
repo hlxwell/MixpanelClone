@@ -1,0 +1,1 @@
+require 'em-resque/tasks'
