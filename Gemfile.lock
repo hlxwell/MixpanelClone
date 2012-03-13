@@ -55,3 +55,4 @@ DEPENDENCIES
   eventmachine (= 1.0.0.beta.1)
   eventmachine_httpserver
   rake
+  resque
